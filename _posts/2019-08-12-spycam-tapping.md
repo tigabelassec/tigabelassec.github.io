@@ -11,10 +11,9 @@ Belum lama ini twitter di heboh kan dengan penyadapan kamera melalui link dengan
 
 ![https://twitter.com/askmenfess/status/1159455681650409473](https://1.bp.blogspot.com/-VHUyC50J5ME/XVE9pNqO3PI/AAAAAAAAAmQ/DCVxg13Lepgb05Sz7nyXckF3OIxBPb9twCLcBGAs/s400/EBc2zDEU0AE4tTE.jpg)
 
-[Salah satu korban](https://twitter.com/askmenfess/status/1159455681650409473)
-
-
-  
+<center>
+<p>Salah satu korban</p>
+</center>  
 
 Untuk menghindari hal semacam ini saya sarankan untuk tidak membuka link yang tidak jelas sumbernya, link yang di kirim attacker tidak selalu dengan **serveo dot net** bisa saja dengan perubahan lainnya seperti halnya link tersebut di **shortlink**
 
@@ -26,10 +25,11 @@ Ok sekarang kita bahas bagaimana cara hacker melakukan exploitasi nyaAda beberap
 
 Artikel ini saya buat bukan untuk disalah gunakan, melainkan untuk menjaga privasi kita.Saya tidak bertanggung jawab jika kalian melakukan tindak kriminal dari isi artikel yang saya buat, anda bertanggung jawab penuh atas tindakkan yang telah anda lakukan.  
   
-Sebelum melihat video ini mohon dibaca dulu [DISCLAIMER](/disclaimer)   
-  
-  
+Sebelum melihat video ini mohon dibaca dulu [DISCLAIMER](/disclaimer)
 
-  
+<center>
+  <iframe src="https://www.blogger.com/video.g?token=AD6v5dyhPa41N3xLzrxcXa4A3OSX84p6YEk01qm_7PqaVGKzbYa_JngXvG9dYixtToo_O1sUias7Xxv_ZmNOlg_Iv1Merqa9UgiLNqwU-YBRdkLDbgy4hKnNRlK5fbDEAbPfySfBAm-1" width="350" height="250" mozallowfullscreen="mozallowfullscreen"></iframe>
+  </center>
+
 Mohon di koreksi jika salah.  
 Terima Kasih

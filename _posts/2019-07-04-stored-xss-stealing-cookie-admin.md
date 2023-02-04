@@ -32,10 +32,10 @@ Bahan :
 
   
 Langsung liat video aja ya biar lebih enak  
-  
-  
 
-  
-  
+<center>
+  <iframe src="https://www.blogger.com/video.g?token=AD6v5dw1kgPlSTTfIDv1uebT7V_P_R-aV4V-Aar-6OktnJK9bm024XJAXh9dlknx0MgU4EUoaZvEeVGguD4jPcQo5nIRQP7eYJQIxvYTw7ot4mxxqLgyde5O2dLfI9pTswT72_N2ed7d" width="350" height="250" mozallowfullscreen="mozallowfullscreen"></iframe>
+  </center>
+
 Ok sekian dulu. Terima kasih  
 CMIIW

@@ -32,9 +32,9 @@ Setelah semua domain terkumpul, kemudian saya mengumpulkan subdomain nya juga me
 Kemudian saya coba scan menggunakan **S3Scanner** untuk mencari S3 Bucket yang terbuka, saya menemukan ada 4 subdomain milik Envato yang ACL nya tidak terkonfigurasi dengan baik, salah satunya **webuild.envato.com.s3.amazonaws.com**.
 
 Jika **aws-cli** sudah terinstall dan sudah di konfigurasi kita bisa mencoba untuk melakukan pengecekan terhadap target kita dengan perintah
-
-    aws s3 ls s3://webuild.envato.com
-
+```shell
+aws s3 ls s3://webuild.envato.com
+```
 ![](https://1.bp.blogspot.com/-bJ3CFC8VlZk/YF1g0Du_f0I/AAAAAAAAA7g/mmwj2nQFBQoR3tZxZ7wApaUpJe_aVLgYgCLcBGAsYHQ/s836/EnvatoList.png)
 
   

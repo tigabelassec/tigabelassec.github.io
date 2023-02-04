@@ -27,7 +27,12 @@ Untuk cara installasi nya cukup mudah
 Jika menggunakan windows tinggal download di officialnya, jika sudah selesai tinggal jalankan file yang berextensi **.exe** nya  
   
 Jika yang menggunakan linux, debian, ubuntu dkk bisa menggunakan perintah  
-**$ sudo apt-get install steghide**  
-  
+```shell
+sudo apt-get install steghide
+```
 Cara menggunakan nya bisa langsung lihat di dokumentasi steghide nya [http://steghide.sourceforge.net/documentation.php](http://steghide.sourceforge.net/documentation.php)    
 Atau bisa langsung lihat video di bawah
+
+  <center>
+  <iframe src="https://www.blogger.com/video.g?token=AD6v5dzO_R95t_Vjwn4nuDehuL04pbh5STi8gTYl3vwXZwjG45_yjJajiFJN4rmqdcvaKQBuIOjfMSr1Gl6E2uM-NJ0FvYzRNzIOqTNMJvhpQWVi0-sx39HhWlbLnanSDdlkPhW5v6U" width="350" height="250" mozallowfullscreen="mozallowfullscreen"></iframe>
+  </center>

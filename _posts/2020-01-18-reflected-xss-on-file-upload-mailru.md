@@ -22,9 +22,11 @@ Saya coba memasukkan payload xss pada form-form yang ada ternyata tidak ada efek
 
   
 Kemudian saya coba lagi, tapi kali ini saya mengubah nama filenya dengan payload xss seperti ni `1<ScRiPt>alert(document.domain)</ScRiPt>` dan BOOMMMM!!!! xss triggerd  
-  
 
-  
+  <center>
+  <iframe src="https://www.blogger.com/video.g?token=AD6v5dzu1ImrjC1Ro_RwUlncOJNXJANpt4Kk0Pgm-ZPwmNfSdmZxFMiMsDD6PdY2eJucyQpwZY_ODZNtI6hqXX0b17YKkMZ5LdRjebJV6BqBnA1U2MtZcU4SQO6Pu3UW0YnvNeCZuV2Q" width="350" height="250" mozallowfullscreen="mozallowfullscreen"></iframe>
+  </center>
+
 **Timeline**  
   
 Dec 28, 2019 - Celah dilaporkan.  

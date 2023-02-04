@@ -10,8 +10,8 @@ pin: true
 ![](https://1.bp.blogspot.com/-EVpuHde-BP8/YVSWzREMtuI/AAAAAAAABAM/uBtJYTOXb4oQvSK1K4JDs5cYelh-_FasgCLcBGAsYHQ/s600/Digispark-Attiny85.jpg)
 
 Karena sekarang saya udah gak nganggur lagi jadi jarang kali nulis di blog, giliran nulis malah ngebait ✌️
-
-Sekarang saya mau sharing tentang brute force pin android tapi bukan dengan USB Rubber Ducky, ya dikarenakan harganya lumayan mahal $49.99, jadii saya pake board pengganti yaitu digispark attiny85 selain harganya yang murah juga mudah untuk didapatkan.
+\
+Sekarang saya mau sharing tentang brute force pin android tapi bukan dengan USB Rubber Ducky, ya dikarenakan harganya lumayan mahal $49.99, jadi saya pake board pengganti yaitu digispark attiny85 selain harganya yang murah juga mudah untuk didapatkan.
 
 Sedikit penjelasan tentang digispark attiny85:
 
@@ -40,11 +40,9 @@ Disini saya tidak meberikan tutorial bagaimana cara install maupun konfigurasi A
 
 Berikut video singkat brute force pin :
 
- 
-
-  
-
-  
+  <center>
+  <iframe src="https://drive.google.com/file/d/138psqdh9xto9SnVwwGhpiUIuC0Gc-ar-/preview" width="350" height="250" mozallowfullscreen="mozallowfullscreen"></iframe>
+  </center>
 
 **Referensi:**
 

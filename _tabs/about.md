@@ -4,9 +4,8 @@ icon: fas fa-info-circle
 order: 7
 ---
 
- Sedikit mengenai blog **tigabelassec.my.id**. Blog ini sudah beberapa kali berganti alamat yang awalnya beralamat **hacktolearnid.com** kemudian berganti lagi menjadi **tigabelas.site** dan sekarang kemungkinan yang terakhir akan tetap dengan alamat **tigabelassec.my.id**
- Alasan kenapa berubah alamat domainnya karena domain sebelumnya sudah expired dan kemudian berganti alamat **tigabelassec.my.id**.
+Blog ini Saya buat sebagai tempat untuk berbagi pengalaman dan pengetahuan saya. Di blog ini, saya akan berbagi catatan tentang bug yang saya temukan, cara mengatasi masalah yang saya hadapi, dan berbagai tips dan trik yang saya pelajari selama ini.
 
-Blog ini saya buat hanya sebagai tujuan pembelajaran dan tempat saya untuk berbagi pengalaman.
-Saya rasa cukup pengenalan singkat mengenai blog ini.
+Saya juga akan berbagi cerita tentang pengalaman saya sebagai bug hunter, termasuk bagaimana saya menemukan bug, bagaimana saya menyelesaikan masalah, dan bagaimana saya menggunakan pengetahuan saya untuk membantu perusahaan dan organisasi lain.
 
+Semoga blog ini bisa membantu Anda menjadi seorang bug hunter yang lebih baik. Terima kasih telah berkunjung ke blog saya.

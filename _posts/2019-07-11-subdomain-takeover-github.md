@@ -17,7 +17,9 @@ Subdomain takeover ini terjadi karena adanya kesalahan konfigurasi pada subdomai
 Contoh khasus nya seperti yang ada di video ini  
   
   
-
+<center>
+  <iframe src="https://www.blogger.com/video.g?token=AD6v5dxnckhY2avBLRKMxdObqQLnQoLnXdBnlPR9wAnZ8TgXvQB0st51FK4w733DO9w1ANQl6GgqgKQAcPm_rB-fChVGjmEBtgy7Bj9-eIsjrcR2DCU0sLiH87BidQakEr-H287OwyQ" width="350" height="250" mozallowfullscreen="mozallowfullscreen"></iframe>
+  </center>
   
   
   

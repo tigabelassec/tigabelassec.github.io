@@ -62,16 +62,16 @@ Export Certificate
 Jika sudah sekarang kita bisa menggunakan tools **openssl** untuk mengubah file **.der** menjadi .**pem** kemudian di ubah lagi menjadi `<hash>.0` 
 
 Pada terminal ketikkan perintah:
-```bash
-    openssl x509 -inform DER -in namafile.der -out namafile.pem
+```shell
+openssl x509 -inform DER -in namafile.der -out namafile.pem
 ```
 Setelah memasukkan perintah di atas kalian akan mendapatkan 2 file certificate dengan format **.der** dan **.pem** kemudian ketikkan lagi perintah:
-```bash
-    openssl x509 -inform PEM -subject_hash_old -in namafile.pem | head -1
+```shell
+openssl x509 -inform PEM -subject_hash_old -in namafile.pem | head -1
 ```
 Setelah mengetikkan perintah diatas teman-teman akan mendapatkan kode hash, setelah mendapatkan kode hash teman-teman salin kode tersebut kemudian lakukan rename file dengan perintah:
-```bash
-    mv namafile.pem <hash>.0
+```shell
+mv namafile.pem <hash>.0
 ```
 ![](https://blogger.googleusercontent.com/img/a/AVvXsEig6XPK3G2TYBuE6hKTmbhfV_7BVDJ1rLlLtZnwoj1cXcowXUTPUlU9vmurrw_J5iLO-oIzHKlro1NRjga5ZVUEeMmV2v0vbKWF2oYPnUr7qaq7vVkDP7pPi8VhRh4EcKAt7aifqlpGeFcaAD4eybqbUnEHhlefk6JlQTC28UuUJBghOntb7H7gSWDTQg=s1103)
 
@@ -81,32 +81,32 @@ Jika sudah sekarang kita akan menyalin file hash tersebut ke `/system` sistem an
   
 
 Pada terminal ketikkan perintah:
-```bash
-    adb remount
+```shell
+adb remount
 ```
 Kemudian kita akan menyalin file certificate ke `/sdcard/` dengan perintah:
-```bash
-    adb push <hash>.0 /sdcard/
+```shell
+adb push <hash>.0 /sdcard/
 ```
 ![](https://blogger.googleusercontent.com/img/a/AVvXsEgKMZlsS2x4MkxWXurBKfpTIC5nav19Y5Y5NAKof0rogK0XsCehsmbMxWEwDbAFjIaB6ZGEZ7-hiAUkN4sP9jprWF_F1JnlvvXeC22bsDeV4kxRfAbLsAeenNHEgGlQpXQ6y-IDPts9bFyc3WFYPKppp993W8yWW7npOkSjlQjnJlJJr6PEuiLxA11ftA=s1086)
 
   
 
 Jika sudah kita akan masuk ke shell dengan perintah:
-```bash
-    adb shell
+```shell
+adb shell
 ```
 Jika sudah di dalam shell kemudian kita akan memindahkan file hash di `/sdcard/` ke sistem dengan perintah:
-```bash
-    mv /sdcard/<hash>.0 /system/etc/security/cacerts/
+```shell
+mv /sdcard/<hash>.0 /system/etc/security/cacerts/
 ```
 Kemudian ubah permission-nya menjadi **644** dengan perintah:
-```bash
-    chmod 644 /system/etc/security/cacerts/<hash>.0
+```shell
+chmod 644 /system/etc/security/cacerts/<hash>.0
 ```
 Setelah itu lakukan reboot
-```bash
-    reboot
+```shell
+reboot
 ```
 ![](https://blogger.googleusercontent.com/img/a/AVvXsEiWivIm4zyFNebsUAnM9LI2XulGjp9AF0d3bg1lcWQ9GwRRTsT_CWDpQ1cWWVffxRcW1uHEjFIG9x9nl8U4i5kTxpzlISo7Rl6T_WyhDCCWChEjUjSHtKW4DjY-Exz2CC-T1SDD8Ln5-IxpBuoSU6eQ4UZ4pq1Cq7t0SrXBEspHdxYlvH3AgBObCULh7Q=s1104)
 
