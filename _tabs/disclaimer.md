@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-### Use at Your Own 
+### Use at Your Own Risk
 ----
   Informasi yang diberikan oleh *tigabelassec.my.id* hanya untuk tujuan pembelajaran. Anda bertanggung jawab penuh atas tindakan Anda.
   \
