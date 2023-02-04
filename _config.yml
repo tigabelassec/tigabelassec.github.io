@@ -101,9 +101,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: tigabelassec/tigabelassec.github.io             # <gh-username>/<repo>
-    repo_id: 595064126
-    category: Q&A
-    category_id: 
+    repo_id: R_kgDOI3f1Pg
+    category: "Q&A"
+    category_id: DIC_kwDOI3f1Ps4CT--I
     mapping:           # optional, default to 'pathname'
     input_position:    # optional, default to 'bottom'
     lang:              # optional, default to the value of `site.lang`
