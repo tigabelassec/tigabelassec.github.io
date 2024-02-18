@@ -81,10 +81,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://tools.tigabelassec.my.id'
+img_cdn: 'https://raw.githubusercontent.com'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/img/avatar.png'
+avatar: '/tigabelassec/tigabelassec.github.io/main/assets/img/favicons/avatar.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
