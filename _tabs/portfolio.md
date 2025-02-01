@@ -20,7 +20,7 @@ Dibawah ini adalah beberapa perusahaan dan/atau komunitas yang pernah berhubunga
 ### Hall of Fame
 - - -
 1. [OPPO Security Response Center](https://security.oppo.com/en/charts) - mrhidden13 (June 2019)
-2. [Envato Product Security](https://webuild.envato.com/helpful-hacker/) - Ilham (Jan 2020 & Feb 2021)
+2. [Envato Product Security](https://www.envato.com/lp/vulnerability-disclosure/honor-roll/) - Ilham (Jan 2020 & Feb 2021)
 3. [Zazzle Hall of Fame](https://www.zazzle.com/hackers.txt) - Ilham (Feb 2022)
 
 > Halaman ini akan terus diperbaharui jika ada perusahaan lain bersedia saya tampilkan disini.
