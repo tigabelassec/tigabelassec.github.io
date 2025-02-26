@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-### 1. Tujuan Situt & Informasi
+### 1. Tujuan Situs & Informasi
 
 ---
 
