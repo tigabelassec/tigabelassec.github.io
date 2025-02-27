@@ -50,7 +50,7 @@ Namun, Anda **tidak diperbolehkan** untuk:
 - Menggunakan informasi dari situs ini untuk aktivitas ilegal.
 - Mengklaim konten sebagai milik sendiri.
 
-Jika Anda menemukan kemiripan dengan konten lain, hal tersebut **mungkin kebetulan** dan tidak disengaja.
+Jika Anda menemukan kemiripan dengan konten lain, hal tersebut **mungkin kebetulan dan tidak disengaja**.
 
 ### 5. Tautan ke Pihak Ketiga
 
