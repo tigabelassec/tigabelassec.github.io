@@ -4,8 +4,10 @@ icon: fas fa-info-circle
 order: 7
 ---
 
-Blog ini saya buat untuk berbagi pengalaman dan pengetahuan seputar bug hunting, keamanan siber, dan pemecahan masalah teknis. Di sini, saya mendokumentasikan temuan bug, cara mengatasinya, serta berbagai tips dan trik yang saya pelajari.
+Blog ini adalah jurnal pribadi yang lahir dari rasa ingin tahu terhadap sistem, keamanan, dan cara kerja teknologi.
 
-Saya juga berbagi pengalaman pribadi dalam dunia bug hunting, mulai dari proses menemukan celah keamanan hingga membantu perusahaan meningkatkan sistem mereka.
+Saya menuliskan catatan belajar, eksperimen, dan write-up seputar keamanan siber, bug hunting, serta pemecahan masalah teknis, bukan sebagai panduan absolut, melainkan sebagai dokumentasi proses belajar.
 
-Semoga blog ini bermanfaat bagi Anda yang tertarik dengan keamanan siber. Terima kasih telah berkunjung!
+Tidak semua tulisan berakhir dengan keberhasilan. Beberapa hanya berisi kebingungan, kesalahan, dan pelajaran kecil yang sering terlewat.
+
+Blog ini ditujukan bagi siapa pun yang percaya bahwa rasa ingin tahu adalah titik awal dalam memahami keamanan.
