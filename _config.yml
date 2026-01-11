@@ -83,7 +83,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://raw.githubusercontent.com/tigabelassec/tigabelassec.github.io/main"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/tigabelassec/tigabelassec.github.io/main/assets/img/favicons/avatar.png"
+avatar: "/assets/img/favicons/avatar.png"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
