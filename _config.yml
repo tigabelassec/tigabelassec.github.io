@@ -9,44 +9,52 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone: Asia/Jakarta
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: 13Sec # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Defense start with curiosity. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A personal blog focused on  defensive security, learning notes, and ethical write-ups.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://tigabelassec.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: tigabelassec # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: tigabelassec # change to your Twitter username
+
+facebook:
+  username: tigabelassec.my.id
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: tigabelassec
+  email: contact@tigabelassec.my.id # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/tigabelassec # change to your Twitter homepage
+    - https://github.com/tigabelassec # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/tigabelassec
     # - https://www.linkedin.com/in/username
+
+author:
+  name: mrhidden
+  url: https://www.tigabelassec.my.id
+  avatar: /assets/img/favicons/avatar.png
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: "mvXnAn-mO7rmO7bWzaplQw1NnEZ3M5Gz6-cBe1_J6bA" # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -59,7 +67,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: "G-P1LP984F2V" # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -95,21 +103,21 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: "https://raw.githubusercontent.com/tigabelassec/tigabelassec.github.io/main"
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/img/favicons/avatar.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: assets/img/favicons/social-preview.png # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: giscus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -119,10 +127,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: tigabelassec/tigabelassec.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOI3f1Pg
+    category: "Q&A"
+    category_id: DIC_kwDOI3f1Ps4CT--I
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
@@ -204,6 +212,9 @@ compress_html:
   blanklines: false
   ignore:
     envs: [development]
+
+include:
+  - .well-known
 
 exclude:
   - "*.gem"
